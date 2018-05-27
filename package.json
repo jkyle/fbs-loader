@@ -1,0 +1,11 @@
+{
+  "name": "fbs-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader for .fbs (Fagan Bros. Script) files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

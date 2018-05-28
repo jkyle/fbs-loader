@@ -1,4 +1,5 @@
 const {processFBS} = require('fbs/bin/fbs');
+const path = require('path');
 
 module.exports = { default: function loader(content) {
   var callback = this.async();
